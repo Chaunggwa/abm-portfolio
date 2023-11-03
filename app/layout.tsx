@@ -7,11 +7,12 @@ import { Toaster } from 'react-hot-toast'
 import { ThemeProvider } from "@/components/theme-provider"
 import { ModeToggle } from '@/components/theme-toggler'
 
+
 const inter = Special_Elite({weight: "400", style: "normal", subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: 'TRS | Portfolio',
-  description: 'Portfolio of developer Thu Rein Soe, a full-stack developer',
+  title: 'ABM | Portfolio',
+  description: 'Portfolio of Network Engineer, Aung Bhone Myint',
 }
 
 export default function RootLayout({
